@@ -1,6 +1,6 @@
 package com.projetosAcademicos.domain.dto;
 
-import com.projetosAcademicos.domain.Endereco;
+import com.projetosAcademicos.domain.model.Endereco;
 import lombok.Data;
 
 @Data
